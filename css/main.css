@@ -1,0 +1,54 @@
+a {
+	text-decoration: none;
+	color: black;
+}
+
+li {
+	display:inline-block;
+	margin-right: 15px;
+}
+
+.header {
+	height:50px;
+}
+.nav {
+	text-align: right;
+	margin-top: 20px;
+}
+
+
+.main {
+	text-align: center;
+}
+
+.main img {
+	margin-top: 150px;
+	margin-bottom: 40px;
+}
+
+.main input {
+	padding-right: 400px;
+	margin-bottom: 30px;
+	border-radius: 0px;
+
+}
+
+.btn {
+	margin-right: 15px;
+	background-color:#F2F2F2;
+	border-radius: 0px;
+}
+
+.footer {
+	background-color:#F2F2F2;
+	position:fixed;
+   	left:0px;
+  	 bottom:0px;
+   	height:40px;
+   	width:100%;
+   	padding-top: 10px;
+   	padding-right: 30px;
+   	border-top: 1px solid light-grey;
+
+}
+
